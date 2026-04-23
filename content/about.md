@@ -89,15 +89,6 @@ Supervisor: [Dr. Viktor A. Petrov](https://math-cs.spbu.ru/en/people/petrov-v-a/
 {{< /twocol >}}
 
 
-### Languages
-
-{{< twocol >}}
-Russian: :: Native
-English: :: C1
-French: :: A1
-{{< /twocol >}}
-
-
 ### Contact
 
 E-mail: [asemenov.spb.56@gmail.com](mailto:asemenov.spb.56@gmail.com)
@@ -117,16 +108,16 @@ St. Petersburg, Russia
 
 ###### Published
 
-- Yu. Belov and A. V. Semenov, [*Frame set of shifted sinc-function*](https://www.sciencedirect.com/science/article/abs/pii/S1063520324000319), Applied and Computational Harmonic Analysis, vol. 71 (2024), 101654.
-- V. A. Petrov and A. V. Semenov, [*Geometry of symmetric spaces of type EVI*](https://www.sciencedirect.com/science/article/abs/pii/S0021869323002983), Journal of Algebra, vol. 656 (2023), pp. 394–405.
-- A. Generalov and A. V. Semenov, [*BV-structure on Hochschild cohomology for exceptional local algebras of quaternion type. Case of an even parameter*](https://pubs.ams.org/journals/spmj/2024-35-04/S1061-0022-2024-01820-9), Algebra and Analysis, 35:4 (2023), pp. 79–110.
-- V. A. Petrov and A. V. Semenov, [*Geometry of symmetric spaces of type EIII*](https://www.researchgate.net/publication/377737755_Geometry_of_symmetric_spaces_of_type_EIII), Algebra and Analysis, 34 (2022) 6, pp. 217–227.
-- A. V. Semenov, [*BV-structure on Hochschild cohomology for exceptional local algebras of quaternion type. Case of the small parameter*](https://link.springer.com/article/10.1007/s10958-025-07706-3), Zap. Nauch. Sem. POMI, 513 (2022), pp. 164–193.
-- A. V. Semenov and P. Gvozdevsky, [*Twisted forms of commutative monoid structures on affine spaces*](https://www.sciencedirect.com/science/article/abs/pii/S0021869322002897), Journal of Algebra, vol. 608 (2022), pp. 272–289.
-- A. V. Semenov and A. Denisova, [*On generating sets of infinite symmetric group*](https://link.springer.com/article/10.1007/s10958-023-06436-8), Zap. Nauchn. Sem. POMI, 500 (2021), pp. 177–187.
-- V. A. Petrov and A. V. Semenov, [*Adjoint algebraic groups as automorphism groups of a projector on a central simple algebra*](https://www.sciencedirect.com/science/article/pii/S0021869320303057), Journal of Algebra, vol. 560 (2020), pp. 574–578.
-- S. O. Ivanov, V. Romanovskii and A. V. Semenov, [*A simple proof for Curtis' connectivity theorem for Lie powers*](https://archive.intlpress.com/site/pub/files/_fulltext/journals/hha/2020/0022/0002/HHA-2020-0022-0002-a015.pdf), Homology, Homotopy and Applications, vol. 22 (2), 2020, pp. 251–258.
-- A. I. Generalov and A. V. Semenov, [*Hochschild cohomology of algebras of quaternion type, IV: cohomology algebra for exceptional local algebras*](https://link.springer.com/article/10.1007/s10958-020-04818-w), Zap. Nauchn. Sem. POMI, 487 (2019), pp. 32–78.
+1. Yu. Belov and A. V. Semenov, [*Frame set of shifted sinc-function*](https://www.sciencedirect.com/science/article/abs/pii/S1063520324000319), Applied and Computational Harmonic Analysis, vol. 71 (2024), 101654.
+2. V. A. Petrov and A. V. Semenov, [*Geometry of symmetric spaces of type EVI*](https://www.sciencedirect.com/science/article/abs/pii/S0021869323002983), Journal of Algebra, vol. 656 (2023), pp. 394–405.
+3. A. Generalov and A. V. Semenov, [*BV-structure on Hochschild cohomology for exceptional local algebras of quaternion type. Case of an even parameter*](https://pubs.ams.org/journals/spmj/2024-35-04/S1061-0022-2024-01820-9), Algebra and Analysis, 35:4 (2023), pp. 79–110.
+4. V. A. Petrov and A. V. Semenov, [*Geometry of symmetric spaces of type EIII*](https://www.researchgate.net/publication/377737755_Geometry_of_symmetric_spaces_of_type_EIII), Algebra and Analysis, 34 (2022) 6, pp. 217–227.
+5. A. V. Semenov, [*BV-structure on Hochschild cohomology for exceptional local algebras of quaternion type. Case of the small parameter*](https://link.springer.com/article/10.1007/s10958-025-07706-3), Zap. Nauch. Sem. POMI, 513 (2022), pp. 164–193.
+6. A. V. Semenov and P. Gvozdevsky, [*Twisted forms of commutative monoid structures on affine spaces*](https://www.sciencedirect.com/science/article/abs/pii/S0021869322002897), Journal of Algebra, vol. 608 (2022), pp. 272–289.
+7. A. V. Semenov and A. Denisova, [*On generating sets of infinite symmetric group*](https://link.springer.com/article/10.1007/s10958-023-06436-8), Zap. Nauchn. Sem. POMI, 500 (2021), pp. 177–187.
+8. V. A. Petrov and A. V. Semenov, [*Adjoint algebraic groups as automorphism groups of a projector on a central simple algebra*](https://www.sciencedirect.com/science/article/pii/S0021869320303057), Journal of Algebra, vol. 560 (2020), pp. 574–578.
+9. S. O. Ivanov, V. Romanovskii and A. V. Semenov, [*A simple proof for Curtis' connectivity theorem for Lie powers*](https://archive.intlpress.com/site/pub/files/_fulltext/journals/hha/2020/0022/0002/HHA-2020-0022-0002-a015.pdf), Homology, Homotopy and Applications, vol. 22 (2), 2020, pp. 251–258.
+10. A. I. Generalov and A. V. Semenov, [*Hochschild cohomology of algebras of quaternion type, IV: cohomology algebra for exceptional local algebras*](https://link.springer.com/article/10.1007/s10958-020-04818-w), Zap. Nauchn. Sem. POMI, 487 (2019), pp. 32–78.
 
 ###### Articles being prepared for publication
 
