@@ -1,14 +1,20 @@
+{{- $base := site.BaseURL | strings.TrimSuffix "/" -}}
 {{- $lines := split .Inner "\n" -}}
 <ul class="twocol">
   {{- range $lines }}
     {{- $line := trim . " \t\r\n" -}}
     {{- if $line }}
       {{- $parts := split $line "::" -}}
+      {{- $left := index $parts 0 | markdownify -}}
+      {{- $left = replaceRE `href="/` (printf `href="%s/` $base) ($left | string) -}}
+      {{- $right := "" -}}
+      {{- if ge (len $parts) 2 -}}
+        {{- $right = index $parts 1 | markdownify -}}
+        {{- $right = replaceRE `href="/` (printf `href="%s/` $base) ($right | string) -}}
+      {{- end }}
       <li>
-        <span class="pos-left">{{ index $parts 0 | markdownify }}</span>
-        <span class="pos-right">
-          {{ if ge (len $parts) 2 }}{{ index $parts 1 | markdownify }}{{ end }}
-        </span>
+        <span class="pos-left">{{ $left | safeHTML }}</span>
+        <span class="pos-right">{{ $right | safeHTML }}</span>
       </li>
     {{- end }}
   {{- end }}
