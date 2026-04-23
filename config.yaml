@@ -15,14 +15,14 @@ indexes:
 
 
 params:
-  author: Андрей Семёнов
+  author: Andrei V. Semenov
   customCSS: ["css/custom.css"]
   customSCSS: ["scss/custom.scss", "scss/twocol.scss"]
   customJS: ["js/bibtex.js"]
   colorScheme: "auto"
   since: 2025
   keywords: "math,research,complex analysis,functional analysis"
-  description: "Личный сайт Андрея Семёнова"
+  description: "Personal site of Andrei V. Semenov"
   avatarURL: "images/avatar.jpg"
   favicon_32: "images/favicon-32x32.png"
   favicon_16: "images/favicon-16x16.png"
@@ -30,6 +30,7 @@ params:
   manifest: "/site.webmanifest"
   katex: "true"
   math: "true"
+  subtitle: mathematician
 
   social:
     - name: "email"
@@ -37,41 +38,20 @@ params:
       weight: 1
       url: "mailto:asemenov.spb.56@gmail.com"
 
+    - name: "Telegram"
+      icon: "fa fa-2x fa-telegram"
+      weight: 2
+      url: "https://t.me/Andrei_V_Semenov"
+
     - name: "arXiv"
       icon: "ai ai-2x ai-arxiv"
-      weight: 2
+      weight: 3
       url: "https://arxiv.org/a/semenov_a_3"
 
-languages:
-  en:
-    weight: 1
-    languageName: "ENG"
-    languageCode: en-US
-    title: "Andrei Semenov"
-    params:
-      subtitle: mathematician
-      author: "Andrei V. Semenov"
-      description: "Personal site"
-      keywords: "math,research,complex analysis,functional analysis"
-    menu:
-      main:
-        - name: About
-          pre: <i class='fa fa-user fa-fw'></i>
-          weight: 1
-          identifier: about
-          url: about/
-
-  ru:
-    weight: 2
-    languageName: "РУС"
-    languageCode: ru-ru
-    title: "Андрей Семёнов"
-    params:
-      subtitle: математик
-    menu:
-      main:
-        - name: Обо мне
-          pre: <i class='fa fa-user fa-fw'></i>
-          weight: 1
-          identifier: about
-          url: ru/about/
+menu:
+  main:
+    - name: About
+      pre: <i class='fa fa-user fa-fw'></i>
+      weight: 1
+      identifier: about
+      url: about/
