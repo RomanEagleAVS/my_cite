@@ -8,7 +8,6 @@ pagination.pagerSize: 10
 enableEmoji: true
 enableGitInfo: true
 titleCaseStyle: 'firstupper'
-canonifyURLs: true
 
 indexes:
   tag: tags
