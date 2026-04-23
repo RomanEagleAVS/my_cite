@@ -1,3 +1,21 @@
+.about-button {
+  display: inline-block;
+  padding: 0.55rem 1.75rem;
+  border: 1px solid currentColor;
+  border-radius: 6px;
+  color: inherit !important;
+  text-decoration: none !important;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  opacity: 0.85;
+  transition: opacity 0.15s ease, background-color 0.15s ease;
+}
+
+.about-button:hover {
+  opacity: 1;
+  background-color: rgba(128, 128, 128, 0.15);
+}
+
 .publist {
   width: 100%;
   border-collapse: collapse;
