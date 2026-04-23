@@ -8,6 +8,7 @@ pagination.pagerSize: 10
 enableEmoji: true
 enableGitInfo: true
 titleCaseStyle: 'firstupper'
+canonifyURLs: true
 
 indexes:
   tag: tags
@@ -43,10 +44,3 @@ params:
       weight: 2
       url: "https://t.me/Andrei_V_Semenov"
 
-menu:
-  main:
-    - name: About
-      pre: <i class='fa fa-user fa-fw'></i>
-      weight: 1
-      identifier: about
-      url: about/

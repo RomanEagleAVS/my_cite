@@ -79,26 +79,6 @@ Supervisor: [Dr. Viktor A. Petrov](https://math-cs.spbu.ru/en/people/petrov-v-a/
 {{< /twocol >}}
 
 
-### Teaching
-
-{{< twocol >}}
-2025 – 2026: :: Complex Analysis, SPbU, Math Department
-2024 – now: :: Fourier Analysis, SPbU, Math Department
-2023 – 2024: :: Mathematical Analysis-2, Algebra-2, SPbU, Math Department
-2022 – 2023: :: Mathematical Analysis-1, Algebra-1, SPbU, Math Department
-{{< /twocol >}}
-
-
-### Contact
-
-E-mail: [asemenov.spb.56@gmail.com](mailto:asemenov.spb.56@gmail.com)
-Telegram: [@Andrei_V_Semenov](https://t.me/Andrei_V_Semenov)
-
-Faculty of Mathematics and Computer Science
-St. Petersburg State University
-St. Petersburg, Russia
-
-
 ### Publications
 
 ###### Preprints
@@ -138,3 +118,23 @@ St. Petersburg, Russia
 - November 2024 – Moscow seminar on Complex Analysis, talk [*Frame set for shifted sinc-function*](https://www.mathnet.ru/php/seminars.phtml?presentid=44400&option_lang=eng)
 - August 2024 – [33rd St. Petersburg Summer Meeting in Mathematical Analysis](http://gauss40.pdmi.ras.ru/ma33/), talk *Spectral synthesis of exponentials in L²(w)*
 - September 2023 – [Analysis and Applications](https://www.mathnet.ru/eng/conf2249), talk [*Frame set for shifted sinc-function*](https://www.mathnet.ru/php/presentation.phtml?presentid=39777&option_lang=eng)
+
+
+### Teaching
+
+{{< twocol >}}
+2025 – 2026: :: Complex Analysis, SPbU, Math Department
+2024 – now: :: Fourier Analysis, SPbU, Math Department
+2023 – 2024: :: Mathematical Analysis-2, Algebra-2, SPbU, Math Department
+2022 – 2023: :: Mathematical Analysis-1, Algebra-1, SPbU, Math Department
+{{< /twocol >}}
+
+
+### Contact
+
+E-mail: [asemenov.spb.56@gmail.com](mailto:asemenov.spb.56@gmail.com)
+Telegram: [@Andrei_V_Semenov](https://t.me/Andrei_V_Semenov)
+
+Faculty of Mathematics and Computer Science
+St. Petersburg State University
+St. Petersburg, Russia
