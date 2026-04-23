@@ -1,0 +1,64 @@
+/* Стили для блока с Research databases */
+.research-databases {
+  display: grid;
+  grid-template-columns: 38rem 1fr; /* Две колонки: первая с фиксированной шириной, вторая — с оставшейся */
+  gap: 0px; /* Отступ между колонками */
+  margin-top: -25px; /* Отступ сверху */
+  margin-bottom: 10px; /* Отступ снизу */
+  padding-left: 19rem; /* Фиксированный отступ слева для сдвига списка */
+}
+
+.research-databases .db-item {
+  display: grid;
+  grid-template-columns: 9.0em 1fr; /* Одна колонка для ключа, другая для значения */
+  gap: 10px; /* Отступ между колонками в каждой строке */
+  margin-bottom: -8px; /* Отрицательный маргин для уменьшения отступов между элементами */
+}
+
+.research-databases .db-value {
+  margin-left: 0rem; /* Отступ между ключом и значением */
+}
+
+.research-databases .db-item p {
+  margin: 0;
+}
+
+.research-databases .db-item .db-value span {
+  display: inline-block;
+  text-align: left; /* Выравнивание значения по левому краю */
+}
+
+
+
+/* для мобильных */
+@media (max-width: 768px) {
+  .research-databases {
+    display: block; /* Делаем один столбец для мобильных */
+    padding-left: 2rem; /* отступ слева */
+    margin-top: -10px; /* Убираем дополнительный отступ сверху */
+  }
+
+  .research-databases .db-item {
+    display: flex; /* Используем flex для удобного размещения элементов */
+    flex-wrap: wrap; /* Разрешаем перенос элементов */
+    margin-bottom: 0rem; /* Убираем слишком большой отступ между строками */
+  }
+
+  .research-databases .db-key {
+    width: 13rem; /* Устанавливаем фиксированную ширину для ключа */
+    font-weight: normal; /* Убираем жирный шрифт */
+    margin-right: 1rem; /* Отступ между ключом и значением */
+    text-align: left; /* Выравнивание по левому краю */
+    white-space: nowrap; /* Чтобы ключ не переносился на новую строку */
+  }
+
+  .research-databases .db-value {
+    flex-grow: 1; /* Значение будет занимать оставшееся пространство */
+    text-align: left; /* Выравнивание значения по левому краю */
+    margin-left: 0; /* Убираем отступ слева */
+  }
+
+  .research-databases .db-item p {
+    margin: 0; /* Убираем отступы в блоках */
+  }
+}

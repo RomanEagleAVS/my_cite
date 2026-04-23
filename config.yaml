@@ -1,0 +1,77 @@
+baseurl: 'https://semenov.example.com' # TODO: заменить после покупки домена
+theme: ['hugo-coder-CoW-modifications', 'coder']
+title: 'Andrei Semenov'
+languageCode: en-US
+DefaultContentLanguage: en
+author: Andrei Semenov
+pagination.pagerSize: 10
+enableEmoji: true
+enableGitInfo: true
+titleCaseStyle: 'firstupper'
+
+indexes:
+  tag: tags
+  topic: topics
+
+
+params:
+  author: Андрей Семёнов
+  customCSS: ["css/custom.css"]
+  customSCSS: ["scss/custom.scss", "scss/twocol.scss"]
+  customJS: ["js/bibtex.js"]
+  colorScheme: "auto"
+  since: 2025
+  keywords: "math,research,complex analysis,functional analysis"
+  description: "Личный сайт Андрея Семёнова"
+  avatarURL: "images/avatar.jpg"
+  favicon_32: "images/favicon-32x32.png"
+  favicon_16: "images/favicon-16x16.png"
+  touchicon: "images/apple-touch-icon.png"
+  manifest: "/site.webmanifest"
+  katex: "true"
+  math: "true"
+
+  social:
+    - name: "email"
+      icon: "fa fa-2x fa-envelope"
+      weight: 1
+      url: "mailto:asemenov.spb.56@gmail.com"
+
+    - name: "arXiv"
+      icon: "ai ai-2x ai-arxiv"
+      weight: 2
+      url: "https://arxiv.org/a/semenov_a_3"
+
+languages:
+  en:
+    weight: 1
+    languageName: "ENG"
+    languageCode: en-US
+    title: "Andrei Semenov"
+    params:
+      subtitle: mathematician
+      author: "Andrei V. Semenov"
+      description: "Personal site"
+      keywords: "math,research,complex analysis,functional analysis"
+    menu:
+      main:
+        - name: About
+          pre: <i class='fa fa-user fa-fw'></i>
+          weight: 1
+          identifier: about
+          url: about/
+
+  ru:
+    weight: 2
+    languageName: "РУС"
+    languageCode: ru-ru
+    title: "Андрей Семёнов"
+    params:
+      subtitle: математик
+    menu:
+      main:
+        - name: Обо мне
+          pre: <i class='fa fa-user fa-fw'></i>
+          weight: 1
+          identifier: about
+          url: ru/about/

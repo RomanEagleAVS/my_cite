@@ -1,0 +1,42 @@
+<footer class="footer">
+    <section class="container">
+      
+
+
+      <picture>
+        <source srcset={{"images/emblem_spbu_black.png" | relURL}} width="60" />
+        <source srcset={{"images/emblem_spbu_white.png" | relURL}} width="60" />
+        <img class="ttt" src="lighthj.png" alt="Герб СПбГУ"/>
+      </picture>
+
+
+
+
+
+      <div style="display:flex; align-items:center; justify-content:center;">
+      <div class="div-mobile">      
+      &copy;
+      {{ if (and .Site.Params.since (lt .Site.Params.since now.Year)) }}
+        {{ .Site.Params.since }} -
+      {{ end }}
+      {{ now.Year }}
+      {{ with .Site.Params.author }} {{ . }} {{ end }}
+      <span style="display: inline-block; margin: 0 5px; vertical-align: middle;">&middot;</span>
+      {{ if (and .Site.Params.license) }}
+        {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
+      {{ end }}
+      </div>
+      <a href="{{ if eq .Site.Language.Lang "ru" }}https://spbu.ru/{{ else }}https://english.spbu.ru/{{ end }}"><img class="color-invertible" src={{"images/emblem_spbu_white.png" | relURL}} width="60" /></a>
+      <div class="div-mobile">
+      <span style="display: inline-block; margin: 0 5px; vertical-align: middle;">&middot;</span>
+      {{ i18n "powered_by" }} <a href="https://gohugo.io/" target="_blank" rel="noopener">&nbsp;Hugo </a>&nbsp;&&nbsp;<a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+      {{ if (and .Site.Params.commit .GitInfo) }}
+        [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>]
+      {{ end }}
+<!--      {{ if and .Lastmod (not .IsHome) }}
+        <span class="lastmod">{{ i18n "last_updated" }}: {{ .Lastmod.Format "2006-01-02" }}</span>
+      {{ end }} -->
+    </div>
+    </div>
+    </section>
+  </footer> 

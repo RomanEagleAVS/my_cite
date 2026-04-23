@@ -1,0 +1,122 @@
+LubReverse2:
+  ENTRYTYPE: article
+  author: Lubkov, Roman
+  title: '{The reverse decomposition of unipotents for bivectors}'
+  journal: Commun. Algebr.
+  year: '2021'
+  volume: '49'
+  number: '10'
+  pages: 4546--4556
+  doi: 10.1080/00927872.2021.1924183
+LubStepSubE:
+  ENTRYTYPE: unpublished
+  author: Lubkov, Roman and Stepanov, Alexei
+  title: '{Subgroups of general linear groups, containing the exterior square of the
+    elementary subgroup (preprint)}'
+  journal: ''
+  year: '2025'
+  volume: ''
+  number: ''
+  pages: ''
+  doi: ''
+LubNek-OverNorm:
+  ENTRYTYPE: article
+  author: Lubkov, Roman and Nekrasov, Ilia
+  title: '{Overgroups of exterior powers of an elementary group. Normalizers}'
+  journal: Doc. Math.
+  year: '2024'
+  volume: '29'
+  number: '5'
+  pages: 1243--1268
+  doi: 10.4171/dm/956
+LubStepSub:
+  ENTRYTYPE: article
+  author: Lubkov, R. and Stepanov, A.
+  title: '{Subgroups of Chevalley Groups Over Rings}'
+  journal: J. Math. Sci.
+  year: '2021'
+  volume: '252'
+  number: '6'
+  pages: 829--840
+  doi: 10.1007/s10958-021-05203-x
+LubReversem:
+  ENTRYTYPE: article
+  author: Lubkov, R.
+  title: '{The reverse decomposition of unipotens in polyvector representations}'
+  journal: J. Math. Sci.
+  year: '2025'
+  volume: '288'
+  number: '3'
+  pages: 350--361
+  doi: ' 10.1007/s10958-025-07703-6'
+LubNek18:
+  ENTRYTYPE: article
+  author: Lubkov, R. A. and Nekrasov, I. I.
+  title: '{Explicit Equations for Exterior Square of the General Linear Group}'
+  journal: J. Math. Sci.
+  year: '2019'
+  volume: '243'
+  number: '4'
+  pages: 583--594
+  doi: 10.1007/s10958-019-04559-5
+LubNek-OverI:
+  ENTRYTYPE: article
+  author: Lubkov, Roman and Nekrasov, Ilia
+  title: '{Overgroups of exterior powers of an elementary group. Levels}'
+  journal: Linear Multilinear Algebr.
+  year: '2022'
+  volume: '72'
+  number: '4'
+  pages: 563--584
+  doi: 10.1080/03081087.2022.2160422
+LubObzor:
+  ENTRYTYPE: article
+  author: Lubkov, Roman
+  title: '{Overgroups of elementary groups in polyvector representations (Russian)}'
+  journal: J. Math. Sci.
+  year: '2024'
+  volume: '531'
+  number: ''
+  pages: 101--116
+  doi: ''
+AbLuKa25:
+  ENTRYTYPE: article
+  author: Abdelwahab, Hani and Kaygorodov, Ivan and Lubkov, Roman
+  title: '{The algebraic and geometric classification of right alternative and semi-alternative
+    algebras}'
+  journal: J. Algebr.
+  year: '2026'
+  volume: '687'
+  number: '1'
+  pages: '792--824'
+  doi: '10.1016/j.jalgebra.2025.09.019'
+AbLuSa25:
+  ENTRYTYPE: article
+  author: Abdurasulov, Kobiljon and Lubkov, Roman and Saydaliyev, Azamat
+  title: '{The algebraic and geometric classification of Jordan superalgebras}'
+  journal: Sib. Electron. Math. Reports
+  year: '2025'
+  volume: '22'
+  number: '1'
+  pages: 813--852
+  doi: 10.33048/semi.2025.22.052
+AbLuKadeltaNov25:
+  ENTRYTYPE: article
+  author: Abdelwahab, Hani and Kaygorodov, Ivan and Lubkov, Roman
+  title: 'The algebraic and geometric classification of $\delta$-Novikov algebras'
+  journal: Bolet{\'{i}}n la Soc. Matem{\'{a}}tica Mex.
+  year: '2025'
+  volume: '31'
+  number: '3'
+  pages: 'art: 145'
+  doi: '10.1007/s40590-025-00827-4'
+AbKaLu_derJor:
+  ENTRYTYPE: article
+  author: Abdelwahab, Hani and Kaygorodov, Ivan and Lubkov, Roman
+  title: 'The algebraic and geometric classification of derived Jordan and bicommutative algebras'
+  journal: 'J. Pure Appl. Algebr.'
+  year: '2026'
+  volume: '230'
+  number: '5'
+  pages: 'art: 108252'
+  doi: '10.1016/j.jpaa.2026.108252'
