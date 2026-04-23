@@ -43,11 +43,6 @@ params:
       weight: 2
       url: "https://t.me/Andrei_V_Semenov"
 
-    - name: "arXiv"
-      icon: "ai ai-2x ai-arxiv"
-      weight: 3
-      url: "https://arxiv.org/a/semenov_a_3"
-
 menu:
   main:
     - name: About
